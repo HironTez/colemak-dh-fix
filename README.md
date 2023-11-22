@@ -1,2 +1,3 @@
-# colemak-dh-fix
-Colemak-DH layout with Qwerty virtual keys and swapped backspace and caps lock
+# Colemak-DH keyboard layout fix
+* Uses Qwerty virtual keys, which allows you to use Qwerty shortcuts most of apps
+* Swapped Backspace and Caps Lock keys (as in the original design)
