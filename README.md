@@ -4,4 +4,9 @@
 
 [Download for Windows](https://github.com/HironTez/colemak-dh-fix/releases/latest/)
 
-![image of the Colemak-DH layout](https://colemak.com/wiki/images/6/6c/Colemak2.png "Colemak-DH layout")
+### Layout
+![image of the Colemak-DH layout](https://colemakmods.github.io/mod-dh/gfx/about/colemak_dh_main_matrix.png "Colemak-DH layout")
+
+### Heatmap
+
+![image of the Colemak-DH heatmap](https://colemakmods.github.io/mod-dh/gfx/compare/keyboard_calc_std_ergonomic_scores.png "Colemak-DH heatmap")
