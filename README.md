@@ -5,7 +5,7 @@
 [Download for Windows](https://github.com/HironTez/colemak-dh-fix/releases/latest/)
 
 ### Layout
-![image of the Colemak-DH layout](https://colemakmods.github.io/mod-dh/gfx/about/colemak_dh_main_matrix.png "Colemak-DH layout")
+![image of the Colemak-DH layout](https://colemakmods.github.io/mod-dh/gfx/about/colemak_dh_main_iso.png "Colemak-DH layout")
 
 ### Heatmap
 
